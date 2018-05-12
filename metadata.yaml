@@ -1,10 +1,16 @@
 _repo: Hesper-the-Home-Spirit-A-simple-story-of-household-labor-and-love_47483
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47483-h/images/cover.jpg
 creator:
   author:
     agent_name: Doten, Elizabeth
     gutenberg_agent_id: '44339'
     url: http://www.gutenberg.org/2009/agents/44339
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47483#Hesper-the-Home-Spirit-A-simple-story-of-household-labor-and-love
 gutenberg_issued: '2014-11-29'
 gutenberg_type: Text
 identifiers:
